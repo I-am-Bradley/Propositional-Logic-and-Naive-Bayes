@@ -19,17 +19,16 @@ This repository contains my full implementation for Project 3, covering:
 
 Project3/
 
-├── README.md
-
-├── Task1_Propositional_Logic/
-│   ├── PL_Titagwan_Bradley_updated.ipynb
-│   └── report/
-│       └── Propositional_Logic_Report.pdf
-│
-├── Task2_Naive_Bayes/
-│   ├── NB_Titagwan_Bradley.py
-│   ├── data/
-│   │   ├── training_biology.txt
+├── README.md  
+├── Task1_Propositional_Logic/  
+│   ├── PL_Titagwan_Bradley_updated.ipynb  
+│   └── report/  
+│       └── Propositional_Logic_Report.pdf  
+│  
+├── Task2_Naive_Bayes/  
+│   ├── NB_Titagwan_Bradley.py  
+│   ├── data/  
+│   │   ├── training_biology.txt  
 │   │   ├── training_economics.txt
 │   │   ├── training_history.txt
 │   │   ├── training_physics.txt
