@@ -48,7 +48,7 @@ Project3/
 │   │   ├── provided_confusion_lower_punct_stop_alpha05  
 │   │   └── provided_confusion_lower_punct_stop_alpha15  
 │   └── report/  
-│       └── Naive_Bayes_Report.pdf  
+│   |   └── Naive_Bayes_Report.pdf  
 │  
 └── LICENSE  
 
