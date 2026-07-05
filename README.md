@@ -21,7 +21,7 @@ Project3/
 
 ├── README.md  
 ├── Task1_Propositional_Logic/  
-│   ├── PL_Titagwan_Bradley_updated.ipynb  
+│   ├── PL_Titagwan_Bradley.ipynb  
 │   └── report/  
 │       └── Propositional_Logic_Report.pdf  
 │  
