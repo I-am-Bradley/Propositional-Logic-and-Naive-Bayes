@@ -73,8 +73,7 @@ Implements a Multinomial Naive Bayes classifier capable of classifying text docu
 
 ```text
 Project3/
-│
-├── README.md  
+│ 
 ├── Task1_Propositional_Logic/  
 │   ├── PL_Titagwan_Bradley.ipynb  
 │   └── report/  
@@ -103,8 +102,8 @@ Project3/
 │   │   ├── provided_confusion_lower_punct_stop_alpha05  
 │   │   └── provided_confusion_lower_punct_stop_alpha15  
 │   └── report/  
-        └── Naive_Bayes_Report.pdf  
-
+│       └── Naive_Bayes_Report.pdf  
+└── README.md 
 ```
 
 ---
