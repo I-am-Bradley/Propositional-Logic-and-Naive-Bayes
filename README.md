@@ -3,7 +3,7 @@
 ## 🧭 Project Overview
 
 ### Title:
-Propositional Logic and Naive Bayes
+### Propositional Logic and Naive Bayes
 
 ### Purpose:
 
